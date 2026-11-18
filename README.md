@@ -24,5 +24,5 @@ Next.js · React · TypeScript · Tailwind CSS · Node.js · PostgreSQL · Supab
 
 ## Background
 
-BS Industrial Technology (Computer Technology), CHMSU · IT support OJT · warehouse checker since 2020,
+BS Industrial Technology (Computer Technology), CHMSU · IT support OJT · warehouse checker since 2021,
 learning web development in my own time.
