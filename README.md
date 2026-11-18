@@ -4,7 +4,8 @@ Entry-level web developer in Bacolod City, Philippines, focused on **Next.js and
 I learn by building and deploying real projects, and I'm looking for my first developer role.
 
 **Portfolio:** [portfolio.nelson1869.com](https://portfolio.nelson1869.com) ·
-**Resume (PDF):** [download](https://portfolio.nelson1869.com/files/Nelson-Fernandez-Resume.pdf)
+**Resume (PDF):** [download](https://portfolio.nelson1869.com/files/Nelson-Fernandez-Resume.pdf) ·
+**LinkedIn:** [in/nelson-e-fernandez](https://www.linkedin.com/in/nelson-e-fernandez)
 
 ## Projects
 
